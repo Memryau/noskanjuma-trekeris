@@ -15,7 +15,7 @@
 
 ## Lietošana
 
-1. Atveriet `index.html` failu caur lokālo serveri (piemēram, izmantojot Python: `python -m http.server`), lai visi dati korekti ielādētos.
+1. Atveriet failu index.html jebkurā modernā pārlūkprogrammā (piemēram, Google Chrome, Edge, Firefox). Nav nepieciešams izmantot serveri.
 2. Ievadiet savu noskaņojumu, iemeslu un vērtējumu.
 3. Skatiet savu noskaņojumu vēsturi un statistiku.
 
